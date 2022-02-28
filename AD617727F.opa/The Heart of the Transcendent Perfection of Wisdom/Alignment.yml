@@ -1,0 +1,38 @@
+segment_sources:
+  P322BFB03:
+    type: origin_type
+    relation: translation
+    language: en
+  PE826E36E:
+    type: origin_type
+    relation: translation
+    language: es
+  PC0DA84C1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8dc5f581baa94831b3c56d76716fdab9:
+    P322BFB03: ac47da7c8f9840bea225990a598259cd
+    PE826E36E: 9a791600775947eb87b36ef57c946e21
+    PC0DA84C1: 5c87eada2fe44870bb58876e192e3ce5
+  90ae781a73c046adae589cace3911a1a:
+    P322BFB03: 0dbbad9803ea4dcfbf8cdd9f22ef7c75
+    PE826E36E: 551eb30a266e403c8b173f45c2d3131d
+    PC0DA84C1: bcf472b6ca554671b23164fa6bcde089
+  47918a44df064deab774b45d6d112677:
+    P322BFB03: 1c5080366ab9491487a6123a15cdcc5f
+    PE826E36E: e5696a6e35784b71b46eccef462f2db7
+    PC0DA84C1: 7e8a0590e20444eb8a68a1ab62958048
+  8d2a25fb483e419d992eb26572492cb3:
+    P322BFB03: b9ba99f7a4434b9184e9adafc81bfb72
+    PE826E36E: ba2c5dce3b7847eb939f2e9951a573ea
+    PC0DA84C1: 39d54f21bdcf456ab0ea8656fd287981
+  0a12a6876c3643ecbc7a60f3cb9deadd:
+    P322BFB03: c51d4c12457d443fa82d754f7ff8fc5b
+    PE826E36E: 0928af3b24a4402e9d1527e4bef4a49d
+    PC0DA84C1: 7ba806b72e6244f2a93a2bf5d256799b
+  29dc6e09f8c742be85182a9ce0456007:
+    P322BFB03: b6565aadf59d4466a951f94be84db7be
+    PE826E36E: 4d48aa001db24ea49f0918b6a4a695ac
+    PC0DA84C1: b7db63ca39044caa9d593ddf354476be
